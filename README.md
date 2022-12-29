@@ -1,6 +1,6 @@
 # Bookmark Landing Page
 
-A simple static website created using HTML and Tailwindcss
+A simple static landing page created using HTML and Tailwindcss
 
 ## Description:
 
@@ -10,4 +10,4 @@ A simple static website created using HTML and Tailwindcss
 
 ## Live Site:
 
-Bookmark
+[Bookmark](https://bookmark-static-landing-page.netlify.app)
