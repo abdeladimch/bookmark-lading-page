@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A simple landing page",
   "scripts": {
-    "build": "npx tailwindcss -i src/styles.css -o public/styles.css",
-    "watch": "npx tailwindcss -i src/styles.css -o public/styles.css --watch"
+    "build": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css",
+    "watch": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
   },
   "keywords": [],
   "author": "",
