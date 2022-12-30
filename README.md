@@ -10,4 +10,4 @@ A simple static landing page created using HTML and Tailwindcss
 
 ## Live Site:
 
-[Bookmark](https://bookmark-static-landing-page.netlify.app)
+[Bookmark landing page](https://bookmark-static-landing-page.netlify.app)
